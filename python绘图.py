@@ -20,3 +20,4 @@ plt.xlabel("时间")
 plt.ylabel("10点到10点之间每分钟温度变化")
 plt.plot(x,y)
 plt.show()
+＃添加文字
